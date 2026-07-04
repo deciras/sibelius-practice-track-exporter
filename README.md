@@ -87,7 +87,7 @@ manualBaseScoreName = 'Score';
 
 ### 当前版本
 
-`0.1.1`
+`0.1.2`
 
 [Back to language switch / 回到语言切换](#sibelius-练习音轨导出器--sibelius-practice-track-exporter)
 
@@ -176,6 +176,6 @@ The no-GUI version is useful when you want a fixed one-click workflow.
 
 ### Current Version
 
-`0.1.1`
+`0.1.2`
 
 [Back to language switch / 回到语言切换](#sibelius-练习音轨导出器--sibelius-practice-track-exporter)

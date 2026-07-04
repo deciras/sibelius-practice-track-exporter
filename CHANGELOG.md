@@ -1,5 +1,13 @@
 # Changelog / 更新日志
 
+## 0.1.2 - 2026-07-05
+
+- Fixed the GUI dialog footer buttons being placed outside the visible dialog area.
+- The `Cancel` and `Export` buttons are now visible and clickable.
+
+- 修复 GUI 对话框底部按钮被放到可见窗口外的问题。
+- `取消` 和 `导出` 按钮现在会显示在窗口内，可以直接点击。
+
 ## 0.1.1 - 2026-07-05
 
 - Reorganized `README.md` into separate Chinese and English sections.
