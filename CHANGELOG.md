@@ -1,5 +1,13 @@
 # Changelog / 更新日志
 
+## 0.1.1 - 2026-07-05
+
+- Reorganized `README.md` into separate Chinese and English sections.
+- Added a clickable language switch at the top of the GitHub README page.
+
+- 将 `README.md` 改为先完整中文、后完整英文的结构。
+- 在 GitHub README 页面顶部增加可点击的语言切换入口。
+
 ## 0.1.0 - 2026-07-05
 
 - Initial public release.
@@ -19,4 +27,3 @@
 - GUI 版支持最多三个自定义导出编组。
 - 支持导出到子文件夹。
 - 支持已有文件跳过和自动加编号。
-
