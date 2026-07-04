@@ -1,5 +1,11 @@
 # Changelog / 更新日志
 
+## 0.1.3 - 2026-07-05
+
+- Slightly enlarged the GUI dialog and moved the footer buttons inward for better spacing.
+
+- 稍微增大 GUI 窗口，并将底部按钮向内移动，避免按钮太贴边。
+
 ## 0.1.2 - 2026-07-05
 
 - Fixed the GUI dialog footer buttons being placed outside the visible dialog area.
